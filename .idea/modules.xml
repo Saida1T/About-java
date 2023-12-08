@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Loops.java.iml" filepath="$PROJECT_DIR$/Loops.java.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/VeriablesExample.iml" filepath="$PROJECT_DIR$/VeriablesExample.iml" />
+>>>>>>> 4d6fb3f4dcf6b1774bed1b23fdd4089098be6e63
     </modules>
   </component>
 </project>
