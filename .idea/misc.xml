@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
+=======
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+=======
+<<<<<<< HEAD
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+>>>>>>> 4d6fb3f4dcf6b1774bed1b23fdd4089098be6e63
+>>>>>>> c67d385af4073fff7be16cd0ead7358ceabd7b96
+>>>>>>> 2ade63a6d5ea2d1d8afc54e410736ec5332cde7a
 <project version="4">
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
