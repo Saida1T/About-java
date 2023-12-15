@@ -1,24 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="65a17444-43aa-42c4-a258-49891c71e7dd" name="Changes" comment="" />
+=======
+<<<<<<< HEAD
+  <component name="ChangeListManager">
+    <list default="true" id="f0016837-7cf6-43e6-bc7e-4d289a6fadf0" name="Changes" comment="" />
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02b2110f-c8b4-4a6a-b49b-7292cc4d2ab6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+>>>>>>> f953d9a77b869df15f120652b0b643ff029ea7ef
+>>>>>>> 2b62885a806c164f9452480d4ebbc6ad17dc8164
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2b62885a806c164f9452480d4ebbc6ad17dc8164
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+<<<<<<< HEAD
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2ZaGRSkgNWD3G3utdWYCUQxRPNp" />
+=======
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2ZWPShEtKf8PKX5s6TpC9Pgx0oI" />
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ZJN8clKijAZMhcT4bvnnJSD4qw" />
+>>>>>>> f953d9a77b869df15f120652b0b643ff029ea7ef
+>>>>>>> 2b62885a806c164f9452480d4ebbc6ad17dc8164
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2b62885a806c164f9452480d4ebbc6ad17dc8164
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -31,6 +86,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="65a17444-43aa-42c4-a258-49891c71e7dd" name="Changes" comment="" />
       <created>1702652770652</created>
       <option name="number" value="Default" />
@@ -40,4 +96,42 @@
     </task>
     <servers />
   </component>
+=======
+      <changelist id="f0016837-7cf6-43e6-bc7e-4d289a6fadf0" name="Changes" comment="" />
+      <created>1702534865914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702534865914</updated>
+      <workItem from="1702534866957" duration="2000" />
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02b2110f-c8b4-4a6a-b49b-7292cc4d2ab6" name="Changes" comment="" />
+      <created>1702136065964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702136065964</updated>
+      <workItem from="1702136067056" duration="1397000" />
+>>>>>>> f953d9a77b869df15f120652b0b643ff029ea7ef
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+>>>>>>> 2b62885a806c164f9452480d4ebbc6ad17dc8164
 </project>

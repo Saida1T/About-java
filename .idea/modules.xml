@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Day11Debugging.iml" filepath="$PROJECT_DIR$/Day11Debugging.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Example.iml" filepath="$PROJECT_DIR$/Example.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Classes.iml" filepath="$PROJECT_DIR$/Classes.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Arrays.java.iml" filepath="$PROJECT_DIR$/Arrays.java.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Loops.java.iml" filepath="$PROJECT_DIR$/Loops.java.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/VeriablesExample.iml" filepath="$PROJECT_DIR$/VeriablesExample.iml" />
+>>>>>>> 4d6fb3f4dcf6b1774bed1b23fdd4089098be6e63
+>>>>>>> c67d385af4073fff7be16cd0ead7358ceabd7b96
+>>>>>>> 2ade63a6d5ea2d1d8afc54e410736ec5332cde7a
+>>>>>>> f953d9a77b869df15f120652b0b643ff029ea7ef
+>>>>>>> 2b62885a806c164f9452480d4ebbc6ad17dc8164
     </modules>
   </component>
 </project>
