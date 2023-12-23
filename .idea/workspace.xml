@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ab6afe2d-08ac-4aca-b267-473a2d682c8a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RomanToInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +52,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="7e800dd9-c0de-42eb-8955-a80e337156e4" name="Changes" comment="" />
       <changelist id="ab6afe2d-08ac-4aca-b267-473a2d682c8a" name="Changes" comment="" />
       <created>1702813851229</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702813851229</updated>
+      <workItem from="1703259832256" duration="371000" />
       <workItem from="1702813852239" duration="409000" />
       <workItem from="1702910253152" duration="35000" />
       <workItem from="1702910780082" duration="19000" />
