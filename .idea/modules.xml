@@ -3,6 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Day30.iml" filepath="$PROJECT_DIR$/Day30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day29.iml" filepath="$PROJECT_DIR$/Day29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day28.iml" filepath="$PROJECT_DIR$/Day28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day27.iml" filepath="$PROJECT_DIR$/Day27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day25.iml" filepath="$PROJECT_DIR$/Day25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day24.iml" filepath="$PROJECT_DIR$/Day24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day23.iml" filepath="$PROJECT_DIR$/Day23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day22.iml" filepath="$PROJECT_DIR$/Day22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day21.iml" filepath="$PROJECT_DIR$/Day21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day20.iml" filepath="$PROJECT_DIR$/Day20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZXC.iml" filepath="$PROJECT_DIR$/ZXC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day11Debugging.iml" filepath="$PROJECT_DIR$/Day11Debugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example.iml" filepath="$PROJECT_DIR$/Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes.iml" filepath="$PROJECT_DIR$/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays.java.iml" filepath="$PROJECT_DIR$/Arrays.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops.java.iml" filepath="$PROJECT_DIR$/Loops.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VeriablesExample.iml" filepath="$PROJECT_DIR$/VeriablesExample.iml" />
     </modules>
   </component>
 </project>
